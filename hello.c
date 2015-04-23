@@ -1,10 +1,10 @@
 #include <stdio.h>
 int main()
 {
-  char act[25];
+  int num;//Edited by User B
   printf("Hello world\n");
   printf("EiEi Gum\n");
-  printf("What are you doing\n");
-  scanf("%s",act);
+  printf("What number\n");//Edited by User B
+  scanf("%d",num);//Edited by User B
   return 0;
 }
